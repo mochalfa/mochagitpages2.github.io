@@ -1,0 +1,21 @@
+#home nav .container img {
+  width: 30px;
+  height: 30px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#projects .container .card img {
+  height: 150px;
+}
+
+section {
+  padding-top: 3rem;
+}
